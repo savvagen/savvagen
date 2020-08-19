@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Nice to see you.
 
 <!--
 **savvagen/savvagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Welcome to my page!
+
+I'm Savva Genchevskiy, Senior QA Automation Engineer from
