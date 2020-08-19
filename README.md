@@ -1,4 +1,4 @@
-<h1>Hi 👋, Nice o see you.</h1>
+<h1>Hi 👋, Nice to see you.</h1>
 <h3 align="left">I'm Savva Genchevskiy, Senior QA Automation enginner</a> from <img src="https://cdn.webshopapp.com/shops/94414/files/54952182/ukraine-flag-icon-free-download.jpg" alt="ua", width="20" height="15"/> Ukraine, <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Odessa-logo.gif" alt="ods", width="20" height="25"/>Odessa</h3>
 
 Welcome to my page!
