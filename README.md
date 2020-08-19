@@ -47,16 +47,10 @@ Here are some ideas to get you started:
 <img src="https://octoperf.com/img/blog/jmeter-tutorial/jmeter-tutorial.png"alt="jmeter" width="70" height="40"/>
 <img src="https://alexandreesl.files.wordpress.com/2020/02/gatling.png"alt="gatling" width="40" height="40"/>
 <img src="https://miro.medium.com/max/500/1*iHbPgMP5K4WWaP2RDBD37w.png"alt="locust" width="40" height="40"/>
-<img src="https://avatars3.githubusercontent.com/u/1841717?s=280&v=4
-"alt="blazemeter" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> <img/>
 <img src="https://a.slack-edge.com/80588/img/services/travis_512.png"alt="travis" width="40" height="40"/>
  </p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=savvagen&show_icons=true" alt="savvagen"/></p>
-
-- 👨‍💻 All of my projects are available at
-
-
 
 
 <h3>Where you can find me</h3>
