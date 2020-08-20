@@ -73,7 +73,7 @@ Here are some ideas to get you started:
     <tr>
         <td><a href="https://github.com/savvagen/cypress-realworld-project">cypress-realworld-project</a></td>
         <td><img src="https://pbs.twimg.com/profile_images/1044345247440896001/pXI1GDHW_400x400.jpg" width="40" height="40"/><img src="https://avatars2.githubusercontent.com/u/8770005?s=400&v=4" width="40" height="40"/></td>
-        <td>In this project taht was born in Summary 2020 you will be able to find examples of how to build your tests with Cypress using PageObjects PageElements patterns. There is several ways presented, how we can create PageObject classes(functions) and how to use native Cypress HTTP client to prepare test data before tests.</td>
+        <td>In this project that was born in Summary 2020 you will be able to find an example of how to build your tests with Cypress using PageObjects, PageElements patterns and to handle a list of element conatiners. There is several ways presented, how we can create PageObject classes(functions) and how to use native Cypress HTTP client to prepare test data before tests.</td>
     </tr>
     <!-- <tr>
         <td><a></a></td>
