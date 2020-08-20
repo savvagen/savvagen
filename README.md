@@ -48,7 +48,45 @@ Here are some ideas to get you started:
 <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> <img/>
 <img src="https://a.slack-edge.com/80588/img/services/travis_512.png"alt="travis" width="40" height="40"/>
- </p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=savvagen&show_icons=true" alt="savvagen"/></p>
+ </p>
+
+ ### List of projects that might be usefull if you are QA Automation
+ This projects can be used while starting a building new projects as a cheat sheets
+<table>
+    <tr>
+        <th> 🎁 Repository </th>
+        <th> 🚀 Technologies and Frameworks </th>
+        <th> 😄Comments </th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/savvagen/selenium-proxy-examples">selenium-proxy-examples</a></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbceG6BBP9VpjOERyc3dgsNc2Xyehjkm7xsA&usqp=CAU" alt="selenium" width="40" height="40"/>
+<img src="https://habrastorage.org/webt/wz/cu/r3/wzcur3lohguxx4c6qnnjfp9wgri.jpeg" alt="selenide" width="60" height="40" alt="selenide"/></td>
+        <td>In summary 2020, I was exited with performance testing. This example will show you a possible way to adapt your Selenium tests for UI Load Testing, and to make some benchmarks on your pages BrowserMobProxy and BrowserUpProxy, and also native Selenide proxy and to catch the browser traffic and to generate detailed HAR reports.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/savvagen/qapropeller-battle-task">qapropeller-battle-task</a></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbceG6BBP9VpjOERyc3dgsNc2Xyehjkm7xsA&usqp=CAU" alt="selenium" width="40" height="40"/>
+<img src="https://habrastorage.org/webt/wz/cu/r3/wzcur3lohguxx4c6qnnjfp9wgri.jpeg" alt="selenide" width="60" height="40" alt="selenide"/><img src="https://automated-testing.info/uploads/default/original/2X/4/49950f4112bb39e094016e7d7be7c84aec415f24.png"alt="testng" width="60" height="40"/><img src="https://avatars2.githubusercontent.com/u/5879127?s=280&v=4"alt="allure" width="40" height="40"/></td>
+        <td>In July 2020, passed QA Automation Campionship "QA Propeller". This is an example of how I decided to solve very challenged problems with non clickable buttons and scroll-bars and also zooming images. In this project you will find usage of many advanced features of Selenide and how test suites can be orgonized to be running in parallel using TestNg.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/savvagen/cypress-realworld-project">cypress-realworld-project</a></td>
+        <td><img src="https://pbs.twimg.com/profile_images/1044345247440896001/pXI1GDHW_400x400.jpg" width="40" height="40"/><img src="https://avatars2.githubusercontent.com/u/8770005?s=400&v=4" width="40" height="40"/></td>
+        <td>In this project taht was born in Summary 2020 you will be able to find examples of how to build your tests with Cypress using PageObjects PageElements patterns. There is several ways presented, how we can create PageObject classes(functions) and how to use native Cypress HTTP client to prepare test data before tests.</td>
+    </tr>
+    <!-- <tr>
+        <td><a></a></td>
+        <td></td>
+        <td></td>
+    </tr> -->
+</table>
+<h2>Other projects will be added soon...</h2>
+
+
+
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=savvagen&show_icons=true" alt="savvagen"/></p>
+
 
 
 
