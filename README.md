@@ -81,7 +81,7 @@ Here are some ideas to get you started:
         <td></td>
     </tr> -->
 </table>
-<h2>Other projects will be added soon...</h2>
+<h2>Other projects will be published soon...</h2>
 
 
 
