@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 , and<img alt="littlebit" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/emojipedia/181/pinching-hand_1f90f.png" width="40" height="30"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7hXm8OBLXHzOgRo0p-IHTwG7q56etSJBsuxw-TjrxMVXS-_caSZ82KJfxwlVSe2OYdh0&usqp=CAU" alt="javascript" width="40" height="40"/></h3>
 
 
-<h3>Things that I code with<h3>
+<h3>Things that I love to code with<h3>
 <p align="left">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbceG6BBP9VpjOERyc3dgsNc2Xyehjkm7xsA&usqp=CAU" alt="selenium" width="40" height="40"/>
 <img src="https://sdcast.ksdaemon.ru/wp-content/uploads/2017/03/selenide-logo-big.png" alt="selenide" width="50" height="50"/>
