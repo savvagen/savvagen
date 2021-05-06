@@ -77,13 +77,13 @@ Here are some ideas to get you started:
     <tr>
         <td><a href="https://github.com/savvagen/selenium-proxy-examples">selenium-proxy-examples</a></td>
         <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbceG6BBP9VpjOERyc3dgsNc2Xyehjkm7xsA&usqp=CAU" alt="selenium" width="40" height="40"/>
-<img src="https://sdcast.ksdaemon.ru/wp-content/uploads/2017/03/selenide-logo-big.png" alt="selenide" width="50" height="50" alt="selenide"/></td>
+<img src="https://sdcast.ksdaemon.ru/wp-content/uploads/2017/03/selenide-logo-big.png" alt="selenide" width="40" height="40" alt="selenide"/></td>
         <td>In summary 2020, I was exited with performance testing. This example will show you a possible way to adapt your Selenium tests for UI Load Testing, and to make some benchmarks on your pages BrowserMobProxy and BrowserUpProxy, and also native Selenide proxy and to catch the browser traffic and to generate detailed HAR reports.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/savvagen/qapropeller-battle-task">qapropeller-battle-task</a></td>
         <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbceG6BBP9VpjOERyc3dgsNc2Xyehjkm7xsA&usqp=CAU" alt="selenium" width="40" height="40"/>
-<img src="https://sdcast.ksdaemon.ru/wp-content/uploads/2017/03/selenide-logo-big.png" alt="selenide" width="50" height="50" alt="selenide"/><img src="https://automated-testing.info/uploads/default/original/2X/4/49950f4112bb39e094016e7d7be7c84aec415f24.png"alt="testng" width="60" height="40"/><img src="https://avatars2.githubusercontent.com/u/5879127?s=280&v=4"alt="allure" width="40" height="40"/></td>
+<img src="https://sdcast.ksdaemon.ru/wp-content/uploads/2017/03/selenide-logo-big.png" alt="selenide" width="40" height="40" alt="selenide"/><img src="https://automated-testing.info/uploads/default/original/2X/4/49950f4112bb39e094016e7d7be7c84aec415f24.png"alt="testng" width="60" height="40"/><img src="https://avatars2.githubusercontent.com/u/5879127?s=280&v=4"alt="allure" width="40" height="40"/></td>
         <td>In July 2020, passed QA Automation Campionship "QA Propeller". This is an example of how I decided to solve very challenged problems with non clickable buttons and scroll-bars and also zooming images. In this project you will find usage of many advanced features of Selenide and how test suites can be orgonized to be running in parallel using TestNg.</td>
     </tr>
     <tr>
