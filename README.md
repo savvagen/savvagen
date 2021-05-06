@@ -1,7 +1,7 @@
 <h1>Hi 👋, Nice to see you.</h1>
-<h3 align="left">I'm Savva Genchevskiy, Senior QA Automation enginner</a> from <img src="https://cdn.webshopapp.com/shops/94414/files/54952182/ukraine-flag-icon-free-download.jpg" alt="ua", width="20" height="15"/> Ukraine, <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Odessa-logo.gif" alt="ods", width="20" height="25"/>Odessa</h3>
+<h3 align="left">I'm Savva Genchevskiy, Senior QA Automation engineer</a> from <img src="https://cdn.webshopapp.com/shops/94414/files/54952182/ukraine-flag-icon-free-download.jpg" alt="ua", width="20" height="15"/> Ukraine, <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Odessa-logo.gif" alt="ods", width="20" height="25"/>Odessa</h3>
 
-Welcome to my page!
+Welcome to my profile!
 
 ⚡ Here you will find a bunch of sample projects that will help you to get started with the most popular libraries and frameworks in Test Automation World!
 
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
         <img src="https://img.stackshare.io/service/11955/default_48baa40615243f437bc3b182e62ddfe0290fca4b.png" alt="playwright" width="45" height="45"/>
         <img src="https://content.nexza.com/stack-items/pytest.c0a818de.png" alt="pytest" width="50" height="50"/>
         </td>
-        <td>In summary 2020, I was exited with performance testing. This example will show you a possible way to adapt your Selenium tests for UI Load Testing, and to make some benchmarks on your pages BrowserMobProxy and BrowserUpProxy, and also native Selenide proxy and to catch the browser traffic and to generate detailed HAR reports.</td>
+        <td>At the beginning of 2021, I tryed to use playwright-python library to check out is it possible to build stable and beautiful solution for UI tests using PageObject pattern. you are welcome to use this proect as a sample.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/savvagen/selenium-proxy-examples">selenium-proxy-examples</a></td>
