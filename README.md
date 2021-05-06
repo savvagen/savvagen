@@ -69,8 +69,8 @@ Here are some ideas to get you started:
         <td>
         <a href="https://github.com/savvagen/playwright-pytest-example">playwright-pytest-example</a></td>
         <td>
-        <img src="https://img.stackshare.io/service/11955/default_48baa40615243f437bc3b182e62ddfe0290fca4b.png" alt="playwright" width="45" height="45"/>
-        <img src="https://content.nexza.com/stack-items/pytest.c0a818de.png" alt="pytest" width="50" height="50"/>
+        <img src="https://img.stackshare.io/service/11955/default_48baa40615243f437bc3b182e62ddfe0290fca4b.png" alt="playwright" width="40" height="40"/>
+        <img src="https://content.nexza.com/stack-items/pytest.c0a818de.png" alt="pytest" width="40" height="40"/>
         </td>
         <td>At the beginning of 2021, I tryed to use playwright-python library to check out is it possible to build stable and beautiful solution for UI tests using PageObject pattern. you are welcome to use this proect as a sample.</td>
     </tr>
