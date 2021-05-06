@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <h3>Languages I am enjoyed <img src="https://49012036slamettriyanto.files.wordpress.com/2012/07/java.jpg" width="40" height="40" alt="java"/>
 <img src="https://susudev.com/wp-content/uploads/2018/06/groovy1.png" width="40" height="40" alt="groovy"/>
 <img src="https://apptractor.ru/wp-content/uploads/2017/05/kotlin_250x250.png" width="40" height="40" alt="kotlin"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40" height="40" alt="python" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1200px-Scala-full-color.svg.png" alt="scala" width="40" height="40"/>
+<img src="https://img2.freepng.ru/20180325/kpq/kisspng-python-logo-programmer-fierce-python-cliparts-5ab7bde1954e21.4104715915219911376116.jpg" width="40" height="40" alt="python" /> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 , and<img alt="littlebit" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/emojipedia/181/pinching-hand_1f90f.png" width="40" height="30"/><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></h3>
 
