@@ -5,7 +5,8 @@ Welcome to my profile!
 
 ⚡ Here you will find a bunch of sample projects that will help you to get started with the most popular libraries and frameworks in Test Automation World!
 
-<!-- start: YOUR_STARTER -->...the list will be added here...<!-- end: YOUR_STARTER -->
+start: YOUR_STARTER 
+end: YOUR_STARTER
 
 <h3>Languages I am enjoyed <img src="https://49012036slamettriyanto.files.wordpress.com/2012/07/java.jpg" width="40" height="40" alt="java"/>
 <img src="https://susudev.com/wp-content/uploads/2018/06/groovy1.png" width="40" height="40" alt="groovy"/>
