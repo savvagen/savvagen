@@ -5,6 +5,10 @@ Welcome to my profile!
 
 ⚡ Here you will find a bunch of sample projects that will help you to get started with the most popular libraries and frameworks in Test Automation World!
 
+
+<!-- start: YOUR_STARTER -->...the list will be added here...<!-- end: YOUR_STARTER -->
+
+
 <!--
 **savvagen/savvagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -56,6 +60,8 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" width="70" height="35"/>
 <img src="https://a.slack-edge.com/80588/img/services/travis_512.png"alt="travis" width="40" height="40"/>
  </p>
+
+
 
  ### List of projects that might be usefull if you are QA Automation
  This projects can be used while starting a building new projects as a cheat sheets
