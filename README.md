@@ -1,48 +1,58 @@
 <h1>Hi 👋, Nice to see you.</h1>
-<h3 align="left">I'm Savva Genchevskiy, Senior QA Automation/Performance engineer<h3>
+<h3 align="left">I'm Savva Genchevskiy, Senior QA Automation/Performance engineer</h3>
 
 Welcome to my profile!
 
 ⚡ Here you will find a bunch of sample projects that will help you to get started with the most popular libraries and frameworks in Test Automation World!
 
-start: YOUR_STARTER 
-end: YOUR_STARTER
 
-<h3>Languages I am enjoyed <img src="https://49012036slamettriyanto.files.wordpress.com/2012/07/java.jpg" width="40" height="40" alt="java"/>
+<h3>Languages I am enjoyed 
+<img src="https://49012036slamettriyanto.files.wordpress.com/2012/07/java.jpg" width="40" height="40" alt="java"/>
 <img src="https://susudev.com/wp-content/uploads/2018/06/groovy1.png" width="40" height="40" alt="groovy"/>
-<img src="https://apptractor.ru/wp-content/uploads/2017/05/kotlin_250x250.png" width="40" height="40" alt="kotlin"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="40" height="40" alt="kotlin"/>
 <img src="https://habrastorage.org/getpro/habr/upload_files/b51/358/401/b513584015f9ef41bfab3c7c93ba6a11.png?v=1" alt="scala" width="40" height="40"/>
-<img src="https://lh3.googleusercontent.com/proxy/DzycHZYDeI7Y2Yjz3Gb305D9W6eNU1OXhXfAvDNUNMRlTH7-Ue_alN2csnLpTEsX6ZPSACh0Eu3jvwcmG8E" width="40" height="40" alt="python" /> 
-<img src="https://it-events.com/system/events/logos/000/012/616/original/C_.jpg?1533372477" alt="csharp" width="40" height="40"/>
-, and<img alt="littlebit" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/emojipedia/181/pinching-hand_1f90f.png" width="40" height="30"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7hXm8OBLXHzOgRo0p-IHTwG7q56etSJBsuxw-TjrxMVXS-_caSZ82KJfxwlVSe2OYdh0&usqp=CAU" alt="javascript" width="40" height="40"/></h3>
+<img src="https://media.tproger.ru/uploads/2021/05/python-cover-icon-original.png" width="40" height="40" alt="python" /> 
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="csharp" width="40" height="40"/>
+, and
+<img src="https://formazione.fabiobiondi.io/static/d9774b95d116ad09e29a7022a624af33/647de/typescript.png" alt="typescript" width="90" height="50"/>
+</h3>
 
 
 <h3>Things that I love to code with<h3>
-<p align="left">
+<p>
+<img src="https://alexandreesl.files.wordpress.com/2020/02/gatling.png" alt="gatling" width="50" height="50"/>
+<img src="https://miro.medium.com/max/500/1*iHbPgMP5K4WWaP2RDBD37w.png" alt="locust" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="k6" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/12608521?s=280&v=4" alt="artillery" width="40" height="40"/>
+<img src="https://testingbaires.com/wp-content/uploads/2019/11/JMeter_00.png" alt="jmeter" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbceG6BBP9VpjOERyc3dgsNc2Xyehjkm7xsA&usqp=CAU" alt="selenium" width="40" height="40"/>
 <img src="https://sdcast.ksdaemon.ru/wp-content/uploads/2017/03/selenide-logo-big.png" alt="selenide" width="50" height="50"/>
 <img src="https://img.stackshare.io/service/11955/default_48baa40615243f437bc3b182e62ddfe0290fca4b.png" alt="playwright" width="45" height="45"/>
 <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGhE8jNwjlc3w/company-logo_200_200/0/1554836371931?e=2159024400&v=beta&t=tQbdczcJ9C9g1pggtEXpC5CQgaFxCZn_d3CAOyeWWDU" alt="cypress" width="45" height="45"/>
 <img src="https://automated-testing.info/uploads/default/original/2X/4/49950f4112bb39e094016e7d7be7c84aec415f24.png"alt="testng" width="60" height="40"/>
-<img src="https://miro.medium.com/max/400/1*MR-bbhz8fQD5Na-GBGm9lA.png"alt="junit" width="40" height="40"/>
-<img src="https://gebish.org/images/logo.png"alt="geb" width="60" height="30"/>
-<img src="https://d33wubrfki0l68.cloudfront.net/13c9a4b570398ec611da4ec48085caaa48c5f2d2/39fb0/logo.svg"alt="tescont" width="40" height="40"/>
-<img src="https://avatars2.githubusercontent.com/u/5879127?s=280&v=4"alt="allure" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEFmhHvn6WRbl6XiePY_uQHBbVZUzRytIuQA&usqp=CAU"alt="cucumber" width="40" height="40"/>
-<img src="https://avatars0.githubusercontent.com/u/19369327?s=400&v=4"alt="restassured" width="40" height="40"/>
-<img src="https://avatars1.githubusercontent.com/u/2678858?s=280&v=4"alt="restassured" width="40" height="40"/>
-<img src="https://octoperf.com/img/blog/jmeter-tutorial/jmeter-tutorial.png"alt="jmeter" width="70" height="40"/>
-<img src="https://alexandreesl.files.wordpress.com/2020/02/gatling.png"alt="gatling" width="50" height="50"/>
-<img src="https://miro.medium.com/max/500/1*iHbPgMP5K4WWaP2RDBD37w.png"alt="locust" width="40" height="40"/>
+<img src="https://miro.medium.com/max/400/1*MR-bbhz8fQD5Na-GBGm9lA.png" alt="junit" width="40" height="40"/>
+<img src="https://gebish.org/images/logo.png" alt="geb" width="60" height="30"/>
+<img src="https://d33wubrfki0l68.cloudfront.net/13c9a4b570398ec611da4ec48085caaa48c5f2d2/39fb0/logo.svg" alt="tescont" width="40" height="40"/>
+<img src="https://avatars2.githubusercontent.com/u/5879127?s=280&v=4" alt="allure" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEFmhHvn6WRbl6XiePY_uQHBbVZUzRytIuQA&usqp=CAU" alt="cucumber" width="40" height="40"/>
+<img src="https://avatars0.githubusercontent.com/u/19369327?s=400&v=4" alt="restassured" width="40" height="40"/>
+<img src="https://avatars1.githubusercontent.com/u/2678858?s=280&v=4" alt="restassured" width="40" height="40"/>
 <img src="https://img.icons8.com/color/452/amazon-web-services.png" alt="aws" width="55" height="50"/>
-<img src="https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo-1.png" alt="docker" width="65" height="50"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-<img src="https://i.pinimg.com/originals/c7/b8/11/c7b8113247fecd83bd9b5ed5bd3f34d5.png" alt="linux" width="45" height="45"/> <img src="https://stickerzone.shop/wp-content/uploads/2018/05/Mongo-DB-logo.png" alt="mongodb" width="40" height="40"/>
-<img src="https://web-creator.ru/uploads/Page/44/mysql.svg" alt="mysql" width="40" height="40"/>
+<img src="https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo-1.png" alt="docker" width="50" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+<img src="https://a.slack-edge.com/80588/img/services/travis_512.png" alt="travis" width="40" height="40"/>
+<img src="https://i.pinimg.com/originals/c7/b8/11/c7b8113247fecd83bd9b5ed5bd3f34d5.png" alt="linux" width="45" height="45"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" width="70" height="35"/>
-<img src="https://a.slack-edge.com/80588/img/services/travis_512.png"alt="travis" width="40" height="40"/>
- </p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" alt="django" width="70" height="35"/>
+<img src="https://rebrainme.com/prometheus/img/content-logos.png" alt="prometheus" width="40" height="40"/>
+<img src="https://pbs.twimg.com/media/EV5M_Y1WAAAzXp-.png" alt="grafana" width="40" height="40"/>
+<img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/07/influxdata-logo--symbol--pool-alpha-small.png" alt="influx" width="40" height="40"/>
+etc...
+</p>
 
 
 
