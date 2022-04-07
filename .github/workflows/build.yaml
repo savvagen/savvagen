@@ -1,6 +1,5 @@
 name: README Repos List
-on:
-  - "push"
+on: ["push", "pull_request"]
   #  schedule:
   #    - cron: "0 0 * * 1"
 
@@ -12,5 +11,5 @@ jobs:
         uses: koj-co/readme-repos-list@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          query: "Octocat in:readme"
+          query: "Octocat in:readme user:savvagen"
           max: 10
