@@ -123,6 +123,6 @@ etc...
 <h3>Where you can find me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/savva-genchevskiy-231947121/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/savva-genchevskiy-231947121/" height="30" width="30" /></a>
-<a href="https://drive.google.com/file/d/1JH6ln3SW_zppHeIxVs5_Eh1hrvDrDGcm/view?usp=sharing"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/download-resume-2-549340.png" height="30" width="30"></a>
+<a href="https://drive.google.com/file/d/1KQQA8Se1k6EMv-_f6Z1jlnGGnSmUZiGF/view?usp=sharing"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/download-resume-2-549340.png" height="30" width="30"></a>
 <a href="https://gitlab.com/savva.gench"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/gitlab-512.png" height="30" width="30"></a>
 </p>
