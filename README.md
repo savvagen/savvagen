@@ -37,7 +37,7 @@ Welcome to my profile!
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEFmhHvn6WRbl6XiePY_uQHBbVZUzRytIuQA&usqp=CAU" alt="cucumber" width="40" height="40"/>
 <img src="https://avatars0.githubusercontent.com/u/19369327?s=400&v=4" alt="restassured" width="40" height="40"/>
 <img src="https://avatars1.githubusercontent.com/u/2678858?s=280&v=4" alt="restassured" width="40" height="40"/>
-<img src="https://img.icons8.com/color/452/amazon-web-services.png" alt="aws" width="55" height="50"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" alt="aws" width="40" height="40"/>
 <img src="https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo-1.png" alt="docker" width="50" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
@@ -47,7 +47,7 @@ Welcome to my profile!
 <img src="https://i.pinimg.com/originals/c7/b8/11/c7b8113247fecd83bd9b5ed5bd3f34d5.png" alt="linux" width="45" height="45"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" alt="django" width="70" height="35"/>
+<img src="https://gitlab.com/uploads/-/system/project/avatar/11886674/django.png" alt="django" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" alt="prometheus" width="40" height="40"/>
 <img src="https://pbs.twimg.com/media/EV5M_Y1WAAAzXp-.png" alt="grafana" width="40" height="40"/>
 <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/07/influxdata-logo--symbol--pool-alpha-small.png" alt="influx" width="40" height="40"/>
@@ -67,10 +67,24 @@ etc...
     </tr>
     <tr>
         <td>
+        <a href="https://github.com/savvagen/artillery-poc-project">artillery-poc-project</a>
+        <p>
+        <a href="https://github.com/savvagen/k6-typescript-demo">k6-typescript-demo</a>
+        <p>
+        <a href="https://github.com/savvagen/k6-demo-project">k6-demo-project</a>
+        </td><td>
+        <img src="https://avatars.githubusercontent.com/u/12608521?s=280&v=4" alt="artillery" width="40" height="40"/>
+        <h3>vs</h3>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="k6" width="40" height="40"/>
+        </td>
+        <td>Workshop <b><a href="https://www.youtube.com/watch?v=Fv9BHvS8eYE&list=PL-pX08T_JdYato0gEiRZEtMwKNHX5ZXlS">Modern Performance Testing on JavaScript</a></b> (November 2022). underwater rocks of Performance Testing on Javascript and why Artillery sometimes better than K6</td>
+    </tr>
+    <tr>
+        <td>
         <a href="https://github.com/savvagen/playwright-pytest-example">playwright-pytest-example</a></td>
         <td>
         <img src="https://img.stackshare.io/service/11955/default_48baa40615243f437bc3b182e62ddfe0290fca4b.png" alt="playwright" width="40" height="40"/>
-        <img src="https://content.nexza.com/stack-items/pytest.c0a818de.png" alt="pytest" width="40" height="40"/>
+        <img src="https://reverbc.gallerycdn.vsassets.io/extensions/reverbc/vscode-pytest/0.1.1/1617123275355/Microsoft.VisualStudio.Services.Icons.Default" alt="pytest" width="40" height="40"/>
         </td>
         <td>At the beginning of 2021, I tryed to use playwright-python library to check out is it possible to build stable and beautiful solution for UI tests using PageObject pattern. you are welcome to use this proect as a sample.</td>
     </tr>
@@ -88,7 +102,7 @@ etc...
     </tr>
     <tr>
         <td><a href="https://github.com/savvagen/cypress-realworld-project">cypress-realworld-project</a></td>
-        <td><img src="https://pbs.twimg.com/profile_images/1044345247440896001/pXI1GDHW_400x400.jpg" width="40" height="40"/><img src="https://avatars2.githubusercontent.com/u/8770005?s=400&v=4" width="40" height="40"/></td>
+        <td><img src="https://www.opencodez.com/wp-content/uploads/2019/12/cypress-logo.png" width="40" height="40"/><img src="https://avatars2.githubusercontent.com/u/8770005?s=400&v=4" width="40" height="40"/></td>
         <td>In this project that was born in Summary 2020 you will be able to find an example of how to build your tests with Cypress using PageObjects, PageElements patterns and to handle a list of element conatiners. There is several ways presented, how we can create PageObject classes(functions) and how to use native Cypress HTTP client to prepare test data before tests.</td>
     </tr>
     <!-- <tr>
@@ -112,4 +126,3 @@ etc...
 <a href="https://drive.google.com/file/d/1JH6ln3SW_zppHeIxVs5_Eh1hrvDrDGcm/view?usp=sharing"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/download-resume-2-549340.png" height="30" width="30"></a>
 <a href="https://gitlab.com/savva.gench"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/gitlab-512.png" height="30" width="30"></a>
 </p>
-
