@@ -12,7 +12,7 @@ Welcome to my profile!
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="40" height="40" alt="kotlin"/>
 <img src="https://habrastorage.org/getpro/habr/upload_files/b51/358/401/b513584015f9ef41bfab3c7c93ba6a11.png?v=1" alt="scala" width="40" height="40"/>
 <img src="https://media.tproger.ru/uploads/2021/05/python-cover-icon-original.png" width="40" height="40" alt="python" /> 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="csharp" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="csharp" width="45" height="45"/>
 , and
 <img src="https://formazione.fabiobiondi.io/static/d9774b95d116ad09e29a7022a624af33/647de/typescript.png" alt="typescript" width="90" height="50"/>
 </h3>
@@ -24,7 +24,7 @@ Welcome to my profile!
 <img src="https://miro.medium.com/max/500/1*iHbPgMP5K4WWaP2RDBD37w.png" alt="locust" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="k6" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/12608521?s=280&v=4" alt="artillery" width="40" height="40"/>
-<img src="https://testingbaires.com/wp-content/uploads/2019/11/JMeter_00.png" alt="jmeter" width="40" height="40"/>
+<img src="https://blog.kakaocdn.net/dn/D8ZgV/btq7PMaerdE/8kZ5skAXxjpGsSe4WODhYK/img.png" alt="jmeter" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbceG6BBP9VpjOERyc3dgsNc2Xyehjkm7xsA&usqp=CAU" alt="selenium" width="40" height="40"/>
 <img src="https://sdcast.ksdaemon.ru/wp-content/uploads/2017/03/selenide-logo-big.png" alt="selenide" width="50" height="50"/>
 <img src="https://img.stackshare.io/service/11955/default_48baa40615243f437bc3b182e62ddfe0290fca4b.png" alt="playwright" width="45" height="45"/>
@@ -48,9 +48,10 @@ Welcome to my profile!
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1200px-Django_logo.svg.png" alt="django" width="70" height="35"/>
-<img src="https://rebrainme.com/prometheus/img/content-logos.png" alt="prometheus" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" alt="prometheus" width="40" height="40"/>
 <img src="https://pbs.twimg.com/media/EV5M_Y1WAAAzXp-.png" alt="grafana" width="40" height="40"/>
 <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/07/influxdata-logo--symbol--pool-alpha-small.png" alt="influx" width="40" height="40"/>
+<img src="https://play-lh.googleusercontent.com/ZDKxXNpI0kF_9KnCzb6hPABB_GofcymUP7Er5z1NMtUKogBfA4XpYc8Lc9r8xOou0QtH" width="40" height="40" alt="datadog">
 etc...
 </p>
 
@@ -111,3 +112,4 @@ etc...
 <a href="https://drive.google.com/file/d/1JH6ln3SW_zppHeIxVs5_Eh1hrvDrDGcm/view?usp=sharing"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/download-resume-2-549340.png" height="30" width="30"></a>
 <a href="https://gitlab.com/savva.gench"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/gitlab-512.png" height="30" width="30"></a>
 </p>
+
