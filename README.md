@@ -8,7 +8,7 @@ Welcome to my profile!
 
 <h3>Languages I am enjoyed 
 <img src="https://49012036slamettriyanto.files.wordpress.com/2012/07/java.jpg" width="40" height="40" alt="java"/>
-<img src="https://user-images.githubusercontent.com/19145925/206249004-8a58470b-ff28-426a-8e21-3d4374d77f2b.png" width="40" height="40" alt="groovy"/>
+<img src="https://user-images.githubusercontent.com/19145925/206249004-8a58470b-ff28-426a-8e21-3d4374d77f2b.png" width="50" height="40" alt="groovy"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" width="40" height="40" alt="kotlin"/>
 <img src="https://habrastorage.org/getpro/habr/upload_files/b51/358/401/b513584015f9ef41bfab3c7c93ba6a11.png?v=1" alt="scala" width="40" height="40"/>
 <img src="https://media.tproger.ru/uploads/2021/05/python-cover-icon-original.png" width="40" height="40" alt="python" /> 
