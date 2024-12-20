@@ -1,5 +1,5 @@
 <h1>Hi 👋, Nice to see you.</h1>
-<h3 align="left">I'm Savva Genchevskiy, Senior QA Automation/Performance engineer</h3>
+<h3 align="left">I'm Savva Genchevskiy, Senior QA Automation/Senior-Lead Performance engineer</h3>
 
 Welcome to my profile!
 
